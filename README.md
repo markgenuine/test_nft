@@ -4,8 +4,8 @@
 ![HardHat verison](https://img.shields.io/badge/hardhat-%20^2.19.0-green)
 ![Repository Top Language](https://img.shields.io/github/languages/top/markgenuine/test_nft)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/evt/callback)
-![GitHub contributors](https://img.shields.io/github/contributors/evt/callback)
+![GitHub last commit](https://img.shields.io/github/last-commit/markgenuine/test_nft)
+![GitHub contributors](https://img.shields.io/github/contributors/markgenuine/test_nft)
 
 # NFT collection
 ## Task description
